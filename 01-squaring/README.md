@@ -9,7 +9,7 @@ This program demonstrates a few of the most basic CUDA operations:
 * Copying output data from the GPU to the CPU
 
 This example is copied almost exactly from Udacity's
-![Intro to Parallel Programming course.](https://eu.udacity.com/course/intro-to-parallel-programming--cs344)
+[Intro to Parallel Programming course.](https://eu.udacity.com/course/intro-to-parallel-programming--cs344)
 
 ## Usage
 
